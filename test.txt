@@ -1,2 +1,0 @@
-help in git bash
-this is my first
