@@ -1,5 +1,5 @@
 print("hello world")
-n=int(input("enter no"))
+n=5
 for i in range(n):
   print("hello" + i)
 
