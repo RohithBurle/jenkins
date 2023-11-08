@@ -1,4 +1,4 @@
-public class java {
+public class help {
     public static void main(String[] args) {
         int number = 5; // Change this number to calculate the factorial for a different number
         long factorial = factorial(number);
